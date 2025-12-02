@@ -1,7 +1,9 @@
  
 
 # 📊 Jumia iPhone Price Scraper + USD Conversion + CSV Export + Bar Chart
+ 
 
+![chart bar](chart.png)
 ## 🧾 **Project Description**
 
 This Python script scrapes iPhone product prices from **Jumia Morocco**, fetches the **USD → MAD exchange rate** from an external API, converts prices to both currencies, and generates a **CSV report**.
